@@ -27,7 +27,7 @@
 ## 4.8.0
 
 ### Minor Changes
-
+jhovany beltran 
 - [#218](https://github.com/solana-foundation/create-solana-dapp/pull/218)
   [`d72efe7`](https://github.com/solana-foundation/create-solana-dapp/commit/d72efe79b0c92c7a1d638ea674cd8b16db466d0e)
   Thanks [@GuiBibeau](https://github.com/GuiBibeau)! - Make Kit Framework templates the default choice instead of Gill.
